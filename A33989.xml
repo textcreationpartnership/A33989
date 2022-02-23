@@ -1,0 +1,611 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Counsel for the living, occasioned from the dead, or, A discourse on Job III, 17, 18 arising from the deaths of Mr. Fran. Bampfield and Mr. Zach. Ralphson / by Hercules Collins ...</title>
+            <author>Collins, Hercules, d. 1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33989</idno>
+            <idno type="STC">Wing C5361</idno>
+            <idno type="STC">ESTC R32496</idno>
+            <idno type="EEBO-CITATION">12706630</idno>
+            <idno type="OCLC">ocm 12706630</idno>
+            <idno type="VID">66033</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33989)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66033)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1524:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Counsel for the living, occasioned from the dead, or, A discourse on Job III, 17, 18 arising from the deaths of Mr. Fran. Bampfield and Mr. Zach. Ralphson / by Hercules Collins ...</title>
+                  <author>Collins, Hercules, d. 1702.</author>
+               </titleStmt>
+               <extent>[2], 37 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Larkin for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Salvation.</term>
+               <term>Faith.</term>
+               <term>Conversion.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66033:1" rendition="simple:additions"/>
+            <p>COUNSEL <hi>For the Living,</hi> Occaſioned from the DEAD: OR, A Diſcourſe on <hi>Job</hi> III. 17, 18.</p>
+            <p>Ariſing from the Deaths of <hi>Mr. Fran. Bampfield</hi> AND <hi>Mr, Zach, Ralphſon,</hi>
+            </p>
+            <p>By <hi>Hercules Collins,</hi> their Fellow Priſoner in <hi>Newgate.</hi>
+            </p>
+            <q>The Lord looſeth the Priſoners, <bibl>
+                  <hi>Pſal. 146.7.</hi>
+               </bibl>
+            </q>
+            <q>Precious in the Sight of the Lord is the Death of his Saints, <bibl>
+                  <hi>Pſal. 116.15.</hi>
+               </bibl>
+            </q>
+            <q>And hath brought Life and Immo<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ality to light through the Goſpel, whereunto I am appointed a Preacher and an Apoſtle, and a Teacher of the Gentiles, for the which Cauſe I alſo S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffer theſe things, nevertheleſs I am not aſhamed for I know whom I have believed, <bibl>
+                  <hi>2 Tim. 1 10, 11.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>George Larkin</hi> for the Author, 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:66033:2"/>
+            <pb n="1" facs="tcp:66033:2"/>
+            <epigraph>
+               <bibl>
+                  <hi>Job III. 17, 19.</hi>
+               </bibl>
+               <q>
+                  <p>There the Wicked ceaſe from Troubling: and there the Weary be at Reſt.</p>
+                  <p>There the Priſoners Reſt together, they hear not the Voice of the Oppreſſour.</p>
+               </q>
+            </epigraph>
+            <p>HOly <hi>Job,</hi> who according to Chronology liv'd Two Thouſand Four Hundred Years from the Creation, was the Non-ſuch for Afflicti<g ref="char:EOLhyphen"/>on, and Patience; none exceeding him in the former or latter, under the Old or New Teſta<g ref="char:EOLhyphen"/>ment, except our Saviour. Under his Agonie and An<g ref="char:EOLhyphen"/>guiſh the product of his depreſſing Trials from God, from <hi>Satan</hi> his Grand Accuſer, Dear Relations, Friends and Enemies, (for he was the <hi>Song</hi> and <hi>By-word</hi> of the Children of fools and baſe men) he inter<g ref="char:EOLhyphen"/>rogates verſe 11, 12. <hi>Why he did not die from the Womb, and why the Knees did not prevent him, and the Breaſts which he did ſuck,</hi> which implieth his deſire it had been ſo; <hi>For then I ſhould have lain still, and been quiet with Kings and Counſellers of the Earth, who build deſolate places for themſelves: There the Wicked Ceaſe from troub<g ref="char:EOLhyphen"/>ling, there the Weary be at Reſt; there the Priſoners Rest together, they hear not the Voice of the Oppreſſour.</hi>
+            </p>
+            <p>In theſe words we conſider, firſt the <hi>Subjects;</hi> which
+<pb n="2" facs="tcp:66033:3"/> are <hi>Oppreſſors</hi> and <hi>Oppreſſed:</hi> Secondly, The Predicate, <hi>They ſhall Reſt:</hi> Thirdly, the <hi>Receptacle,</hi> or place of Reſt, that's the <hi>Grave;</hi> I ſhall note a few things by way of Obſervation.</p>
+            <p>The firſt is, <hi>Wicked men are troubleſome men.</hi> The Original <hi>Raſhagnim,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> tranſlated <hi>Wicked,</hi> imports as much, and ſignifieth a great degree of Sin; there are other words which ſignifie a lower degree as <hi>Cha<g ref="char:EOLhyphen"/>ta,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> the loweſt Expreſſion, which imports a <hi>miſſing the Mark;</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> Gods Glory is that we ſhould aim at in all our Undertakings.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> Now Sin is a miſdoing, and erring from the Rule: There's another word, <hi>Paſhang,</hi> ſignifying Tranſgreſſion,<note place="margin">Leigh Critica Sacra. Ainſworth. on Deut. 4.8.</note> prevarication, <hi>Prov.</hi> 18.19. there ta<g ref="char:EOLhyphen"/>ken for an Offence; by Tranſgreſſion in <hi>Iſa.</hi> 1.2. Tran<g ref="char:EOLhyphen"/>ſlated Rebellion, much like <hi>Marah,</hi> which is gene<g ref="char:EOLhyphen"/>rally rendered Rebellion, provoking, irritating, imbit<g ref="char:EOLhyphen"/>tering,<note place="margin">and Deut 1.26.43.</note> 
+               <hi>Pſal.</hi> 5.10. <hi>Neh.</hi> 9.17. It hath properly the ſignification of changing and bitterneſs, but is applyed to Apoſtacy and Diſobedience, <hi>Deut.</hi> 1.26. and 43. The word <hi>Raſhagnim, <hi>Wicked Ones,</hi>
+               </hi> ſignifyeth Wickedneſs in the higheſt; it's uſed to ſet forth an Ungodly Man, <hi>Pſal.</hi> 1.1. For one <hi>which departs wick<g ref="char:EOLhyphen"/>edly from God, Pſal.</hi> 18.21. and alſo ſignifyeth Reſtleſs Turbulent; and is oppos'd to quietneſs, <hi>Job.</hi> 34.29. ſuch are without true peace themſelves, and ſeek to break the peace of others: the Prophet <hi>Iſaiah</hi> 57. <hi>ult.</hi> compares them to <hi>the Reſtleſs Troubled Sea, which can<g ref="char:EOLhyphen"/>not Reſt;</hi> and becauſe ſuch men for their evil deeds are often brought to Judgment and Condemn'd, there<g ref="char:EOLhyphen"/>fore is this name given unto Condemned Perſons, <hi>Pſal.</hi> 109.7.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>And when he is Judged, let him be Condemned;</hi> or as the Original is, <hi>go out; <hi>Raſhang,</hi> Wicked or guilty.</hi>
+            </p>
+            <p>Let us inquire who they are Wicked Men trouble.
+<pb n="3" facs="tcp:66033:3"/> 1. Themſelves; their Conſciences gripe them, galls them, and pincheth them for their oppreſſive acts, as <hi>Davids</hi> did, when he Numbred the People;<note place="margin">2 Sam. 24.10.</note> and albeit they labour to muzle its mouth, and deafen their own ear, and ſeek to ſtifle its Checks, and ſtop its motions, yet God will have a witneſs for himſelf in all men; <hi>and if our hearts condemn us,</hi>
+               <note place="margin">1 John 3.20.</note> 
+               <hi>God is greater than our hearts, and knoweth all things:</hi> We know more by our ſelves, then all the world knows by us,<note place="margin">Prov. 18.14.</note> but God knows more by us, then we know by our ſelves;<note place="margin">Mat. 27.3, 4.</note> now if a Wounded Spirit be intollerable, what will the ſcal<g ref="char:EOLhyphen"/>ding hot wrath of a Sin-revenging God be? If a Per<g ref="char:EOLhyphen"/>ſecuting Betraying <hi>Judas</hi> cannot ſtand before the Judg<g ref="char:EOLhyphen"/>ment Seat of his own Conſcience, but runs to hang himſelf under the horrour of it, who then can dwell with Everlaſting Burnings.</p>
+            <p n="2">2. <hi>Wicked men are Troublers of Nations:</hi> There would be little work for Magiſtrates, were it not for them: King <hi>Ahab</hi> was much out, when by his interro<g ref="char:EOLhyphen"/>gation he ſuppoſed <hi>Elijah</hi> the Prophet to be <hi>the troubler of Iſrael;</hi> no ſaith he, I am not the man,<note place="margin">1 King 18.17, 18.</note> 
+               <hi>but it is thou and thy Fathers Houſe,</hi>
+               <note place="margin">1 Kings 21.20, 21. Chap. 22.8.</note> 
+               <hi>in that you have forſaken the Com<g ref="char:EOLhyphen"/>mandments of the Lord, and followed</hi> Balaam; becauſe <hi>Elijah</hi> denounced the Judgments of God on him and his houſe for his Sin, he calls him his Enemy, and de<g ref="char:EOLhyphen"/>clares he hates him; he would have had him Prophe<g ref="char:EOLhyphen"/>ſied Peace, when <hi>Elijah</hi>'s Commiſſion was War; he was all for tidings of Peace,<note place="margin">2 Kings 9.22.</note> but the Prophet might ſay to <hi>Ahab,</hi> as <hi>Jehu</hi> to <hi>Joram, What Peace ſo long as the Whoredoms of thy Mother</hi> Jezabel, <hi>and her Witchchrafts are ſo many?</hi>
+            </p>
+            <p n="3">3. <hi>Wicked Men are Troublers of the Church of God;</hi> and of thoſe we have two ſorts; Firſt, ſuch as are under little or no Profeſſion; of this ſort was <hi>Sanballat,</hi>
+               <note place="margin">Nehemiah 6.1, 2.</note> 
+               <hi>To<g ref="char:EOLhyphen"/>biah,
+<pb n="4" facs="tcp:66033:4"/> Jeſhem</hi> the <hi>Arabian,</hi> in <hi>Nehemiahs</hi> time, who per<g ref="char:EOLhyphen"/>plexed the Saints while the <hi>Temple</hi> was a building; Secondly, there are others under a Profeſſion of Reli<g ref="char:EOLhyphen"/>ligion, of thoſe are two ſorts, Firſt ſuch as are among the Saints in the true Church of God;<note place="margin">Joſhua 7.25. 1 Cor. 5. Mat. 26.</note> Wicked Ones are a great trouble to them; <hi>Achan</hi> was ſo to the Church of the Jews; the inceſtuous perſon alſo to <hi>Paul</hi> and the Church of <hi>Corinth;</hi> and Chriſt and his A<g ref="char:EOLhyphen"/>poſtles could not be without their trouble, when they knew they had a Traytor among them. <hi>Corah, Da<g ref="char:EOLhyphen"/>than</hi> and <hi>Abiram</hi> greatly diſturbed, the Church of old by their Pride,<note place="margin">Numb. 16.</note> ſuppoſing the people were all holy, and in their undervaluing Gods Miniſters, <hi>Moſes</hi> and <hi>Aaron;</hi> but God troubled them as he did <hi>Achan,</hi> for his Wickedneſs; one diſorderly Church Member cau<g ref="char:EOLhyphen"/>ſeth more trouble in a Church then one hundred pious Souls, for ſuch are a Comfort and Bleſſing where they are.</p>
+            <p n="2">
+               <note place="margin">Phil. 3.5, 6.</note>2. As thoſe before mentioned were Profeſſors, and Church-diſturbers, yet none of them, except <hi>Judas,</hi> did it in the way of Perſecution; but there are another ſort of ſtrict Profeſſors in ſome things, who do, and have much moleſted the Church by Perſecution. Who was a greater Profeſſor then <hi>Paul,</hi> when he was a <hi>Phariſee?</hi> And who a greater Perſecutor? So the Devout and Honourable Women of Old, were ſtirr'd up by the <hi>Jews,</hi> together with the chief men of the City of <hi>Antioch,</hi>
+               <note place="margin">Acts 13.15.</note> to raiſe Perſecution againſt <hi>Paul</hi> and <hi>Barnabas,</hi> and expelled them out of their Coaſts: The Devout muſt do this, that their wickedneſs might be the more latent and hidden. VVho was it that <hi>John Bap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſt</hi> and Chriſt called a <hi>Generation of Vipers,</hi> but ſuch a ſort of people the Devout Phariſees? As a Ser<g ref="char:EOLhyphen"/>pent begets a Serpent,<note place="margin">Mat. 3.</note> ſo you are the ſucceſſors of wick<g ref="char:EOLhyphen"/>ed
+<pb n="5" facs="tcp:66033:4"/> Parents, ye are the Seed of the Old Serpent, Crafty, Deceivers, full of poyſon, and infect others; <hi>Ye fullfil the Meaſure of your Fathers Wickedn ſs;</hi>
+               <note place="margin">Mat. 23.</note> as the Viper killeth its Mother, ſo have you the Prophets, by whom ye ought to have laboured to be begotten to God; as the <hi>Viper</hi> ſwells with poyſon, ſo do you with Pride and Envy againſt God and his Children; as this Creature will ſtick on a man to his hurt, and kill with his tongue, <hi>Job.</hi> 20.16. ſo do you; as it loveth none but his own kind, ſo you, none but ſuch as will agree with you in killing the Lords Prophets; and as ſome write, this Creatures Teeth is buryed in its Gums, that one might think them harmleſs, ſo ſeem you Phariſees, but full of Cruelty; you will make many and long Prayers, and yet devour VVidows Houſes; <hi>you Cleanſe the out<g ref="char:EOLhyphen"/>ſide of the Cup and Platter, but within full of Extortion and Exceſs;</hi> as the <hi>Viper</hi> is beautiful without, as it were painted, yet full of venom within, ſo you Phariſees; for all your long Robes, your Phylactaries, your many Prayers, and compaſſing Sea and Land to make one Proſelyte, all this makes you but as whited Sepulchres, which appear beautiful outwardly, but within full of dead mens bones and all uncleaneſs; you are a compa<g ref="char:EOLhyphen"/>ny of Hypocrites, <hi>For you build the Tombs of the Pro<g ref="char:EOLhyphen"/>phets, and garniſh the Sepulchres of the Righteous, and ye ſay, If we had been in the days of our Fathers, we would not have been Partakers with them in the Blood of the Prophets;</hi> yet when I ſend Prophets and wiſe-men, and Scribes, ſome of them you kill and crucifie, ſome you Scourge, and Perſecute from City to City, that <hi>upon you may come all the Righteous Blood ſhed upon the Earth, from the Blood of Righteous</hi> Abel, <hi>to the Blood of</hi> Zacharias <hi>Son of</hi> Barachias, <hi>whom ye ſlew between the Temple and the Altar.</hi>
+            </p>
+            <pb n="6" facs="tcp:66033:5"/>
+            <p>That wicked men are troublers of the <hi>Church,</hi> ap<g ref="char:EOLhyphen"/>pears from the ſad complaint the <hi>Church</hi> makes in ma<g ref="char:EOLhyphen"/>ny places;<note place="margin">Pſal. 129.2, 3.</note> 
+               <hi>The Plowers have Plowed on our back;</hi> as they out up and open the bowels of the Earth, ſo wick<g ref="char:EOLhyphen"/>ed men afflict Gods People, ſometimes to the opening their very Bowels; ſo <hi>Aſaph, Thou feedest us with the Bread of Tears,</hi>
+               <note place="margin">Pſal. 80.5.</note> 
+               <hi>and givest them Tears to drink in great meaſure;</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> the Hebrew word is, <hi>Shaliſh,</hi> a threefold meaſure, ſo that they were fed with Tears in the Plu<g ref="char:EOLhyphen"/>ral, and that in a treble or large meaſure: As the <hi>Church</hi> was in <hi>Aegypt</hi> among the Pots in the midſt of the Fire and Smoak,<note place="margin">Pſal 69.13.</note> in extream heat and burning af<g ref="char:EOLhyphen"/>fliction, as the very brick pots of old was burnt; yet ſhall not the <hi>Church</hi> be ſcorched, but ſhall come out of Trouble, as thoſe did out of <hi>Aegypt</hi> with much beauty and glory; <hi>As the Wings of a Dove covered with Silver, and her Feathers with yellow gold;</hi> when God gives but the word for deliverance, in the conqueſt of the adver<g ref="char:EOLhyphen"/>ſary,<note place="margin">Pſal. 68.30.</note> then many ſhall publiſh the praiſes of God: when <hi>he Rebukes the Multitude of Spear-men,</hi> or as the Origi<g ref="char:EOLhyphen"/>nal,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Chajah Kaneh,</hi> the Beaſt of Reeds; Spear<g ref="char:EOLhyphen"/>men, or men of Armes, they are no more to God, the moſt valiant company of Spear-men, which the Reeds in the water do reſemble, then thoſe weak Reeds; for God can as eaſily bow them as a company of weak Reeds; according to the words of <hi>Solomon, All K<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngs ſhall bow down before him,</hi>
+               <note place="margin">Pſal. 72.11.</note> 
+               <hi>and his Enemies ſhall lick the Duſt;</hi> ſo low ſhall they bow, they ſhall ſeem to lick the duſt.</p>
+            <p n="4">4. <hi>Wicked men are troublers of God,</hi> God-provoking <hi>Sinners;</hi>
+               <note place="margin">Ezek. 16.43.</note> not that there are paſſions in God, as that he is capable of joy or grief,<note place="margin">Iſaiah 63.10.</note> as man; but God is ſaid to be Provoked and to Repent,<note place="margin">Ezek. 6.9.</note> when he doth ſuch things as men do when they are Provoked or Repent;<note place="margin">Eph. 4.30.</note> The
+<pb n="7" facs="tcp:66033:5"/> wicked are ſaid to fret God, elſewhere it's ſaid, they <hi>Rebelled, and vexed his Holy Spirit;</hi> and God is ſaid to be <hi>broken with an whoriſh heart;</hi>
+               <note place="margin">Acts 9.5.</note> hence the Apoſtle ex<g ref="char:EOLhyphen"/>horts, <hi>not to grieve the Holy Spirit:</hi> It is the hardeſt and painfulleſt work men can go about, to grieve God and his Church;<note place="margin">Job. 15.26.</note> it's worſe then to kick our na<g ref="char:EOLhyphen"/>ked Heel againſt the Pricks, it's to run againſt the thick boſſes of his Buckler,<note place="margin">Job. 9.4.5, 6.</note> 
+               <hi>none ever hardened himſelf againſt God and proſpered, for he ſhaketh the Earth out of its place, and the Pillars thereof tremble;</hi> our hearts cannot indure, nor our hands be ſtrong,<note place="margin">Ezek. 22.14.</note> if God con<g ref="char:EOLhyphen"/>tend with us; <hi>Shall we now provoke the Lord to Jealou<g ref="char:EOLhyphen"/>ſie? Are we ſtronger then he?</hi>
+               <note place="margin">1 Cor. 10.22.</note> 
+               <hi>That will put fear into the Nations, that they may know they are but men, <hi>E<g ref="char:EOLhyphen"/>noſh,</hi>
+               </hi> weak ſickly mortal men;<note place="margin">Gen. 35.5.</note> God can put his E<g ref="char:EOLhyphen"/>nemies in fear as he did the <hi>Shechemites,</hi> that they purſu<g ref="char:EOLhyphen"/>ed not <hi>Jacob:</hi> God made a noiſe in the Ears of the Hoſt of the <hi>Syrians,</hi>
+               <note place="margin">2 Kings 7 7.6.</note> like the noiſe of a great Hoſt of Chariots and Horſes, which filled them with fear, ſo as they left their Tents, their Horſes, their Silver and Gold. Who will adventure to ſet the Briars and Thorns againſt God? he will go through them all, and burn them together. Wicked Men are compared to thorns,<note place="margin">Iſaiah 27.4.</note> 
+               <hi>He will take them away as with a Whirlwind, as living as wrath,</hi> ſo the Original.<note place="margin">Pſal. 58.9.10, 11.</note>
+            </p>
+            <p>
+               <hi>By way of <g ref="char:V">Ʋ</g>ſe.</hi> If Wicked men are troubleſom men, then we may be informed ſuch are Strangers to Goſpel Principles, to a Goſpel Spirit, and Goſpel Teachings;<note place="margin">Rom. 12.14.</note> for that teacheth to <hi>follow peace with all men, and holi<g ref="char:EOLhyphen"/>neſs,</hi>
+               <note place="margin">Mat. 7.12.</note> to do by all men as we would they ſhould do to us; the Goſpel Spirit is full of meekneſs, quietneſs,<note place="margin">Mat 18.3, 4.</note> humility, like our Lord, who taught us that <hi>except we are Converted, and become as little Children,</hi>
+               <note place="margin">Luke 9.54, 55, 56.</note> in peacea<g ref="char:EOLhyphen"/>bleneſs, humility, and without Revenge, <hi>we cannot
+<pb n="8" facs="tcp:66033:6"/> enter into the Kingdom of God:</hi> Our Lord as readily re<g ref="char:EOLhyphen"/>proved <hi>James</hi> and <hi>John,</hi> when he ſaw a hot ſpirit of Revenge in them againſt the <hi>Samaritans,</hi> in deſiring fire might come from Heaven to deſtroy them; <hi>but he turned and rebuked them, and ſaid, You know not what manner of ſpirits ye are of, for the Son of Man did not come to deſtroy mens lives, but to ſave them; our Lord doth exhort us to love our Enemies, bleſs them which Curſe us, do good to them which hate us, pray for them that deſpitefully uſe us and Perſecute us.</hi>
+               <note place="margin">Mat. 5.44.</note> Now if this be the Doctrine of the Goſpel to Enemies, how much unlike a Goſpel Spirit are they which are ſo far from doing this for Enemies, they will not do it to their Friends, and quiet peaceable Neighbours; but on the contrary Perſecute them who make Conſcience to pray for them, becauſe our Lord Commands it. A Goſpel Spirit is a Cool Spirit, a perſecuting ſpirit is a hot ſpi<g ref="char:EOLhyphen"/>rit, which predominates in wicked men, and makes them troubleſom; as when fire is put into water, or water thrown on fire, it makes a hiſſing noiſe, becauſe of the Contrariety of their Nature; hence the word for a Perſecutor,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Dalak,</hi> ſignifieth he was hot, he purſued, he burned; the Goſpel teacheth us to be <hi>harmleſs as Doves,</hi>
+               <note place="margin">2 Tim. 2.24.25. Mat. 10, 16.</note> and ſuch a ſpirit there really is in all goſpellized ſouls: <hi>The Servant of the Lord muſt not strive, but be gentle unto all men, apt to Teach, patient, or forbearing, in meekneſs inſtructing thoſe which oppoſe themſelves.</hi>
+            </p>
+            <p>Thus you ſee a perſecuting ſpirit is not of a Go<g ref="char:EOLhyphen"/>ſpel-complexion.</p>
+            <p>To Conclude, let the <hi>Reſhagnim,</hi> or wicked Ones, take theſe following Scriptures, as a glaſs to be<g ref="char:EOLhyphen"/>hold themſelves in.</p>
+            <pb n="9" facs="tcp:66033:6"/>
+            <p>Such ſhall be made to confeſs their wickedneſs in not ſetting Gods People at liberty to Worſhip him;<note place="margin">Exod. 9.27. Chap. 5.1, 2, 3. Prov. 24.16. 1 Sam. 2.9. Pſal. 9.17. Pro. 3.33. Pſal. 9.16. Prov. 10.7.20.</note> they ſhall fall into miſchief, and be ſilent in darkneſs, and turned into Hell, with the Nations which forget <hi>God.</hi> Gods Curſe is always in that mans houſe, and he is ſnared in the works of his own hands; his Name ſhall rot, and his Heart is little worth; God will ſearch out their wickedneſs till there be none;<note place="margin">Pſal. 10.15. Malachi 4.1. Prov. 29.2.</note> all of them ſhall be made as ſtuble; this is the portion of a wicked Man, and the heritage of Oppreſſors, which they ſhall re<g ref="char:EOLhyphen"/>ceive from the Almighty;<note place="margin">Job 27.13, 14, 15, 16, 17.</note> if his Children be multi<g ref="char:EOLhyphen"/>plyed, it is for the Sword, and his Off-Spring ſhall not be ſatisfied with Bread; thoſe that remain of him, ſhall be Buryed in Death, and his Widows ſhall not weep; though he heap up Silver as the duſt, and pre<g ref="char:EOLhyphen"/>pare Rayment as the Clay; he may prepare it, but the Juſt ſhall put it on, and the Innocent ſhall divide the Silver, <hi>&amp;c.</hi>
+            </p>
+            <p>Obſervation. 2. <hi>Some will never ceaſe troubling, until they Ceaſe Living. There the wicked ceaſe from troubling;</hi> as if the Spirit ſhould have ſaid, <hi>Then, and not till then,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>will many ceaſe from trou<g ref="char:EOLhyphen"/>bling;</hi> the Original <hi>Chadal,</hi> Rendered ceaſe, is ſome<g ref="char:EOLhyphen"/>times Tranſlated <hi>Leave,</hi> as <hi>Judges</hi> 9.9. <hi>Gen.</hi> 41.49. So wicked ones muſt leave, and give over their trou<g ref="char:EOLhyphen"/>bling the Lords Intereſt; the ſame word is rendered <hi>Fraile, Pſal.</hi> 39.4 Holy <hi>David</hi> he Prayes to know how Fraile, how ceaſing he was: <hi>Let me know, O Lord! how ſubject I am to Ceaſe and Dye, and come to nothing;</hi> ſo the ſame Man Prayes that Gods Enemies might know themſelves, to be what they are: <hi>Pſal.</hi> 9.20. <hi>Let them know themſelves to be but Men;</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> or <hi>Enoſh,</hi> the proper Name of <hi>Adams</hi> Nephew, <hi>Gen.</hi> 4.
+<pb n="10" facs="tcp:66033:7"/> 26. which ſignifieth <hi>Sorrowful,</hi> and is Com<g ref="char:EOLhyphen"/>monly given to Men, to ſignifie their Doleful State and Mortality: Hence Holy <hi>David</hi> admireth in <hi>Pſal.</hi> 8 5. God ſhould Confer ſuch Honour and Di<g ref="char:EOLhyphen"/>gnity upon Man; the word in the Original is <hi>Enoſh,</hi> which ſignifieth Poor, Sorry, Fraile, weakly, Mortal, Corrupt Man.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>The word for Troubling, <hi>Ragas,</hi> is ſome<g ref="char:EOLhyphen"/>times Tranſlated <hi>Rage,</hi> 2 <hi>Kings</hi> 19.28. So that ungodly ones are Raging ones, eſpecially ſome of them againſt the <hi>Church of God;</hi> as once <hi>Paul,</hi> who him<g ref="char:EOLhyphen"/>ſelf Confeſſeth, being exceeding mad againſt them he; <hi>Perſecuted them even unto strange Cities;</hi> ſometimes Tranſlated to Vex, <hi>Pſal.</hi> 2, 5. There applied unto God, who will vex his and his Peoples Enemies, who do rage and ſet themſelves againſt the Lord and againſt his Anointed; the ſame word is rendered <hi>Trembling</hi> in <hi>Deut.</hi> 28.65. <hi>Pſal.</hi> 18.7. So that thoſe wicked Men Endeavour by their hard ſpeeches and cruel Actions, to make the Saints to tremble, as no doubt, but <hi>Paul</hi> did, when called <hi>Saul,</hi> in his uncon<g ref="char:EOLhyphen"/>verted State, <hi>Acts</hi> 26.11. When he Compelled them to Blaſpheme; but this is more then they can do to all, for ſome of the Lords Intereſt are as bold as a Lyon, and though a Converted <hi>Paul</hi> be informed of his being bound at <hi>Jeruſalem;</hi> he is not ſo much as moved at it. Its a Glorious Promiſe made to the Church. <hi>Pſal.</hi> 46. That when the waters roar and are troubled, and the Mountains ſhake with the ſwelling thereof, yet the Church ſhall not be moved, for God is her refuge: this is more then many wicked can ſay: How many trembling Hearts and Hands? How many Pale-Faces have the wicked had, when they have come to di<g ref="char:EOLhyphen"/>ſturb the Meetings of the Saints? How have ſome
+<pb n="11" facs="tcp:66033:7"/> of our Ears heard ſome of them Complain of their work, and how full of horror they were in heart for it. There is a twofold ceaſing; <hi>Firſt, A Partial Ceaſing. Secondly, A Total. A Partial, as when God lay the Wicked Men upon Beds of Sickneſs,</hi>
+               <note place="margin">1 Kings 13.4.</note> that though they have a heart, affection, and Principle for Perſecution; yet they want ſtrength of Body: God he may ſtrike one lame in his Limbs,<note place="margin">Acts 13.11.</note> as he did <hi>Jero<g ref="char:EOLhyphen"/>boam,</hi> whoſe Arm was withered in being wickedly uſed againſt the Lords <hi>Prophet;</hi> another, God may ſtrike and ſmite with Blindneſs, as he did <hi>Elimas</hi> the Sorcerer for a ſeaſon,<note place="margin">Gen. 19.10 11.</note> who ſought to turn the Deputy from the Faith, and as he did the <hi>Sodomites,</hi> who preſs'd ſore upon <hi>Lot,</hi> but were <hi>ſmitten ſo blind that they wearied themſelves to find the Door;</hi> others God may ſtrike with fear and Terror in their Conſciences,<note place="margin">Gen. 35.5.</note> as he did the <hi>Shechemites, ſo as they purſued not after</hi> Jacob; he reſtraines the hot Rage of Men, he girds it, and binds it, as he did <hi>Eſau</hi>'s againſt his Brother <hi>Jacob,</hi> and <hi>Labans</hi> alſo, who had a charge not to ſpeak Good or Bad unto him; moreover rather then fail, God can find other work for his Enemies, as he did for <hi>Saul</hi> and his Army,<note place="margin">Pſal. 67.10.</note> when they had incompaſs'd <hi>David; a Meſſenger comes and calls off</hi> Saul, <hi>for the</hi> Philiſtines <hi>had invaded the Land;</hi>
+               <note place="margin">1 Sam. 23.25, 26, 27.</note> upon which they made a retreat: He can ſet the <hi>Egyptians</hi> againſt the <hi>Egyptians,</hi> and one Enemy ſhall ſet on fire another, He can make the Hearts of the ſtrong to fail, and be as weak as Women, they ſhall be afraid becauſe of the ſhaking of the hand of the Lord;<note place="margin">Iſaiah. 21.</note> they ſhall Fight every one againſt his Brother, and City againſt City, and Kingdom againſt Kingdom;<note place="margin">Chap. 26.</note> He can make the Princes of <hi>Zoan</hi> Fools, the Counſel of the wiſe Coun<g ref="char:EOLhyphen"/>ſellors made Bruitiſh, and this may be onely for a time.</p>
+            <pb n="12" facs="tcp:66033:8"/>
+            <p>
+               <hi>But Secondly,</hi> there is a Total Ceaſing of the wick<g ref="char:EOLhyphen"/>ed, and this is in a twofold way. <hi>First,</hi> by Converſion. <hi>Secondly,</hi> Diſſolution. <hi>Firſt,</hi> Con<g ref="char:EOLhyphen"/>verſion, when that is once wrought, the Spirit of Per<g ref="char:EOLhyphen"/>ſecution Expires; when <hi>Paul</hi> was unconverted, he was a great Perſecuter, but when he was Converted, he <hi>Preached the Faith which he once deſtroyed;</hi>
+               <note place="margin">Gal. 1.23, 24.</note> and gave the Church Ground to Glorifie God on that account; from whence we may learn, no Perſecuter is a Con<g ref="char:EOLhyphen"/>verted Man,<note place="margin">Gal. 1.</note> nor no Converted Man is a Perſecuter: this was one of the Charges <hi>Paul</hi> brought againſt himſelf, and made him admire free Grace in calling him, and <hi>putting him into the Miniſtry; Who was be<g ref="char:EOLhyphen"/>fore a Blaſphemer,</hi>
+               <note place="margin">1 Tim. 1.12, 13.</note> 
+               <hi>a Perſecuter, and Injurious,</hi> &amp;c.</p>
+            <p>
+               <hi>Secondly,</hi> The diſſolution of the Body brings in a Total Ceaſing of the wickeds troubling, then a <hi>Cains</hi> Enmity muſt ceaſe towards an Innocent <hi>Abel;</hi> and <hi>Joſephs</hi> Brethren then cannot Contrive againſt him any more, when a <hi>Pharaohs</hi> Chariot-wheels begins to fall off, and the Seas meet on him, he can no lon<g ref="char:EOLhyphen"/>ger hinder the <hi>Lords People</hi> from his Worſhip, nor Impoſe hard tasks upon them:<note place="margin">Dan. 5.5.</note> when <hi>once the hand-Writing comes on the Wall,</hi> then <hi>a Belſhazzar</hi> muſt ceaſe from his Drinking, and quaffing in the <hi>Veſſ ls of the Temple; his Countenance will then change, his Thoughts trouble him, the Joynts of his Loines will be looſed, and his Knees ſmite one against another:</hi> When this War comenceth againſt a <hi>Nero</hi> and an <hi>Herod,</hi> then no more <hi>Pauls,</hi> nor <hi>John Baptists</hi> Heads can they take off, the latter to gratifie the Luſts of two ſorry Wo<g ref="char:EOLhyphen"/>men, an <hi>Herodias</hi> and her <hi>Daughter.</hi> Though God be very long Suffering and Patient, yet ſometimes he is very ſpeedy and ſwift in his Judgments upon the <hi>Wicked;</hi> in <hi>Pſal.</hi> 58. Judgment is threatned and im<g ref="char:EOLhyphen"/>precated
+<pb n="13" facs="tcp:66033:8"/> upon the violent ones: <hi>Let them melt away as Water which continually runneth; Let them melt as a Snail; and be as the untimely Birth of a Woman; be<g ref="char:EOLhyphen"/>fore the Pots can feel the Thorns, he will take them away, both Living, and in his Wrath, and as a Whirld-Wind;</hi> how ſoon do Waters paſs away, a Snail melt, or an untimely Birth paſs away? How ſoon is a few dry Thorns under a Pot burnt, or a Whirl-wind paſs? All which ſheweth the ſpeedineſs and ſwitfneſs of Gods Judgments on the wicked; how ſoon was an <hi>Herod</hi> Eaten with Worms for his Pride and Cruelty? <hi>Belſhazzar</hi> was ſoon diſpacht after the <hi>Hand-Writing on the Wall: Julian the Apoſtate</hi> was quickly ſmote, and made to Confeſs, The <hi>Gallilean</hi> was too hard for him. Gods Judgments ſometimes are ſo Apparent and ſwift on the Ungodly, that a Man ſhall be forc'd to Confeſs, There is a God which Judgeth in the Earth, as well as a Reward, for the Righteous. God threatned <hi>Amalek</hi> of Old for the Malice againſt his People,<note place="margin">Deſendo <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <note place="margin">Delebo <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> that he would <hi>utterly</hi> put out their Remem<g ref="char:EOLhyphen"/>brance from under Heaven; the <hi>Original</hi> is, <hi>in wiping away, I will wipe away;</hi> the ſame VVord is Applied to Gods ſweeping away the Old <hi>World, Gen.</hi> 7.23. And to Gods wiping away of Sin, Tranſlated <hi>Blotted, Iſai.</hi> 43.25. Thoſe which have the Spirit of <hi>Amalek,</hi> to trouble the Church of God, have worſe things threatened, <hi>for the Wicked and them which love Violence, God hateth; on ſuch he will Rain Snares, Fire,</hi>
+               <note place="margin">Pſal. 11.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>and Brimſtone, and a Burning Tempeſt; this ſhall be the Portion of their Cup.</hi>
+            </p>
+            <p>Obſervation 3. <hi>Many Wicked ones in troubling them<g ref="char:EOLhyphen"/>ſelves and others, are wearied in strength;</hi> The Origi<g ref="char:EOLhyphen"/>nal <hi>Coach,</hi> which is not in the Tranſlation,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> only
+<pb n="14" facs="tcp:66033:9"/> Noted in ſome Margents, ſignifieth Strength, Vertue, Power, Might, not only of Body, but alſo mind, in Wiſdom, Learning, Policy, ſo Honour and Eſtates; but properly the lively vigour and Native moiſture of the Body, whereby Men are made ſtrong, <hi>Joſhua</hi> 14.11. <hi>Pſal.</hi> 22 15. then there is another word joyned to it,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Iagang</hi> ſignifying Labour, ſo Tranſlated, <hi>Job.</hi> 9.29. <hi>Eccleſ.</hi> 10.15. It ſignifieth <hi>Toil, Turmoile,</hi> ſore Labour, of Body or mind, and conſequently fainting and wearineſs, as in the Text its oppoſs'd unto Reſt: <hi>Lam.</hi> 5.5. So that wicked Men are wea<g ref="char:EOLhyphen"/>ried in their greateſt ſtrength, through ſore Labour<g ref="char:EOLhyphen"/>ing and <hi>Tormoiling</hi> in it. Of ſuch People the Prophet <hi>Iſaiah</hi> ſpeaketh,<note place="margin">Iſaiah 57.10.</note> which <hi>were wearied in the greatneſs of their way,</hi> being great in Sin, or great in Strength, or Power; albeit they were weary, <hi>Yet they ſaid not, There is no Hope:</hi>
+               <note place="margin">Eccle. 4.1.</note> 
+               <hi>We</hi> Read of ſome great in Power which <hi>Solomon</hi> mentioneth; <hi>I returned and Conſidered all the Oppreſſions which were under the Sun, and behold the Tears of ſuch as were Oppreſs'd, and they had no Com<g ref="char:EOLhyphen"/>forter; and on the ſide of the Oppreſſors there was Power.</hi> In the Exerciſe of their Power they might, yea ſome many times do weary themſelves in Oppreſſing the Heritage of <hi>God:</hi>
+               <note place="margin">Job. 15.20.</note> 
+               <hi>The Wicked,</hi> ſaith <hi>Job, Travelleth with pain all his Days;</hi> not only puting others to pain, but themſelves alſo,<note place="margin">Jer. 9.5.</note> as the Prophet <hi>Jeremiah</hi> ſaith of a People, <hi>They have wearied themſelves to commit Ini<g ref="char:EOLhyphen"/>quity;</hi> Painful Iniquity! ſome weary themſelves with Lyes, truſting in a falſe <hi>God</hi> which cannot help, as <hi>Baals</hi> Worſhipers in <hi>Elijah</hi>'s time,<note place="margin">Iſai. 44.20.</note> they Cryed, and waited, and cut themſelves with Knives and Lances, and no help came;<note place="margin">1 Kings 18.28.</note> Yet ſay they not, there is no Hope, nor, <hi>is there not a Lye in our Right Hand?</hi> Though they feed on Aſhes, and a deceitful Heart turneth them
+<pb n="15" facs="tcp:66033:9"/> aſide:<note place="margin">Iſai. 47.13.</note> Some have been <hi>wearied in the multitudes of their Counſels,</hi> as <hi>Babilon</hi> of Old in contriving againſt <hi>Gods</hi> In<g ref="char:EOLhyphen"/>tereſt, and to prevent <hi>Gods</hi> Judgments, but all was in vain: its ſaid in the ſame Chapter, <hi>God gave the People into their Enemies Hand, but they ſhewed them no Mercy: <g ref="char:V">Ʋ</g>pon the Ancients haſt thou heavily laid the Yoke:</hi> (as now Men of threeſcore, fourſcore Years of Age, hurried to Priſon for nothing elſe but for Worſhiping their <hi>God;</hi> and how do many in the Exerciſe of their Power weary themſelves in contriving againſt the In<g ref="char:EOLhyphen"/>nocent, in ſitting in Judgment againſt them,<note place="margin">Acts 9.1, 2.</note> from morning until nine or ten a Clok at night, and then hurry them to Priſon, Old and Young, Male and Female, Bond and Free, Poor and Rich; no doubt but <hi>Paul</hi> would have wearyed himſelf in his Journey from <hi>Jeruſalem</hi> to <hi>Damaſcus,</hi> and in bringing them again back bound unto <hi>Jeruſalem,</hi> from <hi>Damaſcus,</hi> had not <hi>God</hi> prevented him, by Converſion: How many have wearied themſelves to find out the places where <hi>Gods</hi> People <hi>Worſhip,</hi> and have been like the Men of <hi>Sodom,</hi>
+               <note place="margin">Gen. 19.11.</note> who wearied themſelves to find <hi>Lots</hi> Door in their blindneſs? Others that have been wea<g ref="char:EOLhyphen"/>ryed in ſtrength, in breaking open the <hi>Doors of Gods People,</hi> and plundered their Houſes afterwards, ſome have been ſo weary in this work, that they have been ready to ſink in the place. And though the Head hath broken ſhort off from the helve of their ſledge; yet have not ſaid, There is no Hope, <hi>God</hi> we ſee is againſt us; but rather with <hi>Pharaoh,</hi> will ſeek to patch on his Cha<g ref="char:EOLhyphen"/>rioth-wheels, when <hi>God</hi> takes them off; and as it was in literal <hi>Babylon,</hi> they laid their Idols upon their Beaſts, till they were weary; ſo the impoſing of Spiritual <hi>Babylon</hi>'s Inventions on the People of <hi>God,</hi> makes them, or is deſign'd to make them weary,
+<pb n="16" facs="tcp:66033:10"/> either in the Penalties inflicted upon them for Non-Obſerving them, or elſe to make them weary of the way and VVorſhip of <hi>God,</hi>
+               <note place="margin">Dan. 7.25.</note> as <hi>Daniel</hi> hath it of a cer<g ref="char:EOLhyphen"/>tain King that <hi>ſhall ſpeak great Words againſt the moſt High, and ſhall wear out the Saints of the moſt High, and ſhall think to change times and Laws.</hi> He ſhall Endeavour to wear them out, either to wear out their Bodies, or make them weary of their Country, or if poſſible their Religion; wicked Men weary them<g ref="char:EOLhyphen"/>ſelves ſometimes in one Sinful way, ſometimes in a<g ref="char:EOLhyphen"/>nother, ſome in gaming, ſome in uncleaneſs, ſome in Drunkeneſs, ſome in Perſecuting, as its obſerved concer<g ref="char:EOLhyphen"/>ning <hi>Antiochus Epiphanus,</hi> that infamous troubler of the Church, that he undertook more Troubleſome Jour<g ref="char:EOLhyphen"/>neys, and went more hazardous deſigns, to trouble, Op<g ref="char:EOLhyphen"/>poſe and vex the Church of the Jews, then ever any of his predeceſſors about any other Conqueſt or Noble Enter<g ref="char:EOLhyphen"/>prize, he went further to do miſchief, then ſome Saints to do good; and the ſtory is concluded with this general Truth, <hi>All ſuch Wicked ones go with more Trouble to Eter<g ref="char:EOLhyphen"/>nal Death, then the Saints to Eternal Life.</hi> Now this ariſeth from inconſiderateneſs,<note place="margin">Prov. 7.22. Chap. 5.11, 12.13.</note> they go on <hi>like an Ox to the Slaughter, and as a Fool to the Correction of th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtocks, till a Dart ſtrike through his Liver; as a Bird haſteth to the Snare, and knoweth it not that it is for Life: Then he Mourneth at the laſt, when his Fleſh and his Body is conſum'd, and ſays, How have I hated Inſtruction, and my Heart deſpiſed Reproof, and have not Obeyed the Voice of my Teachers, nor inclin'd mine Ear to them which inſtructed me?</hi> Then they will ſay as in the Apocripha, <hi>We Fools accounted his Life madneſs,</hi>
+               <note place="margin">Wiſd. 5.4.</note> 
+               <hi>and his End to be without Honour; but how is he Numbred among the Children of God, and his Lot is among the Saints:</hi> then will they ſee that word fulfill'd in <hi>Habakkuk That they</hi>
+               <note place="margin">Habak. 2.13, 14.</note>
+               <pb n="17" facs="tcp:66033:10"/> 
+               <hi>Labour'd in the Fire, and wearyed themſelves for very Vanity;</hi> for notwithſtanding all we have done, <hi>the Earth is filled with the knowledge of the Glory of the Lord, as the Waters cover the Sea;</hi> the Apoſtle <hi>Paul</hi> tells us that he was <hi>Injurious,</hi> and <hi>Perſecuted the Church of God,</hi> out of Ignorance, <hi>Agnoon,</hi> Ignorantly, this with the Seventy is the ſame with <hi>Aſham</hi> in the <hi>Hebrew</hi> which ſignifieth guilt, wickedneſs;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> for Ig<g ref="char:EOLhyphen"/>norance is an inlet to wickedneſs; but let all ſuch re<g ref="char:EOLhyphen"/>member that Chriſt will <hi>take Vengeance by Flaming Fire,</hi> as well on them which are <hi>Ignorant,</hi>
+               <note place="margin">2 Theſſa. 1.8.</note> as on them which are <hi>Diſobedient;</hi>
+               <note place="margin">Pſal. 9.17.</note> 
+               <hi>The Wicked ſhall be turned into Hell and all the Nations which forget God.</hi>
+            </p>
+            <p>Obſervation 4.<note place="margin">Job. 14.1.</note> 
+               <hi>The most Rest that ever a Wicked man hath, will be in the Grave.</hi> All Mankind are <hi>born to Trouble as the Sparks flyeth upward,</hi> naturally; man is naturally born to trouble, but as he is a wicked man, is obnoxious to more, for not only while he is alive is he troubled and tormented in Conſcience, but after the Reſurrection will be tormented Soul and Body for ever. In the Grave his Body doth reſt,<note place="margin">Pſal. 16.9.</note> but it is not in hope as the Bodies of the Saints do, who have <hi>hope in their Death.</hi> By <hi>Reſt</hi> here, ſome underſtand it of the Saints, whom the wicked have troubled; but foraſmuch as the next verſe ſpeaketh of the reſt or ſleep of the Oppreſſed, we may well conclude its ſpoken of the Wicked; for their Bodies do reſt in the Grave alſo: as if the Spirit ſhould ſay, The wicked as long as they live, will never reſt, but be always troubling the Godly, they will never be quiet until I bring them to the Grave, but then they ſhall leave, and trouble mine no more, the Root <hi>Nuach,</hi> here rendred <hi>Reſt,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> is ſometimes tranſlated for any thing accepted, as <hi>Gen.</hi> 8.21.<note place="margin">Gen. 8.21.</note> 
+               <hi>God ſmelled a
+<pb n="18" facs="tcp:66033:11"/> ſweet ſmell in Noahs Sacrifice,</hi> or <hi>a ſavour of Reſt,</hi> as it was tipical of the Great Sacrifice, Chriſt our Paſs<g ref="char:EOLhyphen"/>over, was ſacrificed for us, this God cannot ſmell in a wicked mans Death; <hi>But Precious in the Sight of the Lord is the Death of his Saints:</hi>
+               <note place="margin">1 Cor. 5.7.</note> Its alſo taken for the Churches reſting from their Enemies, <hi>Eſther.</hi> 9.22. and for the Souls reſting in God, <hi>Pſal.</hi> 116.7. <hi>Return to thy R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt,</hi>
+               <note place="margin">Pſal. 116.15.</note> 
+               <hi>O my Soul;</hi> its oppos'd to travel and labour, <hi>Exod.</hi> 23.12. <hi>Gen.</hi> 8.9. the Bodies of the <hi>Reſhagnim, <hi>The wicked one, ſhall rest in the grave, and be quiet;</hi>
+               </hi> but how? as an inſenſible hardened Ma<g ref="char:EOLhyphen"/>lefactor, which is bound in Chains, and ſecur'd for Judgment and condemnation: and foraſmuch as mans Soul is immortal, it muſt have a being, and a place after it is parted from the Body; and to ima<g ref="char:EOLhyphen"/>gine a wicked mans Soul to be then without any ſenſe of torment, is to be in a better caſe then it was in the World, for now and then he had as it were an Hell within him; and every where the Scriptures of truth Repreſents a wicked man after the Death of the Body in a far worſe condition then when alive,<note place="margin">Luke. 16.</note> and a good mans far better; and that the Souls of Juſt men are in glory, is undeniable, from the firſt of <hi>Col<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſians,</hi> verſe 20th. <hi>And having made peace through the Blood of his Croſs, by him to Reconcile all things unto himſelf, by him I ſay, whether th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y be things in Earth, or things in Hea<g ref="char:EOLhyphen"/>ven;</hi> Mark, it ſeems there are ſome things in Heaven Reconciled by the Blood of Chriſt;<note place="margin">Luke 23.43.</note> now what can or may thoſe things be; it cannot be the good Angels there, for they never fell, ſo needed not to be Redeem<g ref="char:EOLhyphen"/>ed, however they may be Eſtabliſhed; What then can it be in Heaven Redeemed by Chriſts Blood?<note place="margin">Acts 7.59.</note> Truly nothing elſe but the Souls of Believers: If then
+<pb n="19" facs="tcp:66033:11"/> their Souls be in Heaven, while their Bodies are in the Grave, it cannot be rationally ſuppoſed,<note place="margin">Mat. 10.28.</note> being Immortal Subſtances, that they can be without ſome feeling; if ſome feeling, it cannot be of Miſery, none ſuppoſe that in Heaven; then it muſt be capa<g ref="char:EOLhyphen"/>ble of ſome Joy and Bleſſedneſs: from the ſame Pu<g ref="char:EOLhyphen"/>rity of Reaſon the Souls of the wicked muſt be in ſome Miſery, and far Separated from that place of Joy, and under ſome Impreſſions of Gods wrath, though not to the full, as it ſhall when Soul and Bo<g ref="char:EOLhyphen"/>dy is Re-united; as a Malefactor, when Apprehen<g ref="char:EOLhyphen"/>ded, Impriſoned, Fettered, and put in ſome dark Dungeon; this is a part of his Puniſhment, though not as yet tryed, judged, Condemned, nor Executed,<note place="margin">Eccle. 12.7.</note> only he may have been carryed before ſome Judge or Juſtice, as the Souls of all men return to <hi>God</hi> at Death,<note place="margin">Mat. 25.46.</note> and the wicked receive a Sentence of Commit<g ref="char:EOLhyphen"/>ment to Priſon, to be bound in Fetters and Chains, and put in ſome dark Dungeon, untill his great and Fi<g ref="char:EOLhyphen"/>nal Tryal and Judgment for Life or Death Eternal.</p>
+            <p>Obſervation 5. <hi>Death and the Grave puts an End to all Oppreſſions They hear not the Voice of the Op<g ref="char:EOLhyphen"/>preſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r:</hi>
+               <note place="margin">Mat. 5.27.</note> There is Oppreſſion in Voice and Oppreſſi<g ref="char:EOLhyphen"/>on in Intention, and Oppreſſion in Act; Oppreſſion in Intention and Purpoſe, is accounted ſo by <hi>God;</hi> as well as Adultery, though never Acted; as a good Mans Inten<g ref="char:EOLhyphen"/>tions, though many times never come into Act, is accepted: <hi>It was well,</hi> God told <hi>Dav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</hi>
+               <note place="margin">1 Kings 19.2.</note> 
+               <hi>it was in his Heart to Build h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m a Temple;</hi> ſo <hi>Jezabels</hi> Inten<g ref="char:EOLhyphen"/>tion to deſtroy <hi>Elijah,</hi> ſhall be accounted one day as if it had been done Actually.</p>
+            <p>The word for Oppreſſion, <hi>Nagas,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> is ſometimes
+<pb n="20" facs="tcp:66033:12"/> rendred <hi>Taſkmasters,</hi> as in <hi>Exod.</hi> 2.7. <hi>Arias Mon<g ref="char:EOLhyphen"/>tanus</hi> ſaith, <hi>Exactors,</hi> it ſignifieth in a ſpecial uſe one which Exacteth or Extorteth Money or <hi>Tribute,</hi> to the grievance of a Perſon, 2 <hi>Kings</hi> 23.35. in the 10. <hi>Zachariah</hi> 4. Its rendered <hi>an Oppreſſor,</hi> ſo Chap. 9.8. <hi>No Oppreſſor ſhall paſs through the Land any more;</hi> Its ſo uſed becauſe thoſe Exactors many times impoſe againſt Right and Equity Mulcts and Fines upon the Subjects; as to be ſin'd for Worſhiping God accord<g ref="char:EOLhyphen"/>ing to the light of our Conſcience, which is Con<g ref="char:EOLhyphen"/>ſiſtent to a Peaceable and quiet Living in the Land, this is Oppreſſion and Sinful Exaction, and againſt the very light of Nature; for no man that owns a God,<note place="margin">Exod. 33.9.</note> and that he ought to be Worſhipped, would be done ſo by: God prohibited <hi>Iſrael</hi> from Oppreſ<g ref="char:EOLhyphen"/>ſing a ſtranger, then to Oppreſs a Native, a Con<g ref="char:EOLhyphen"/>try-man, a Subject, yea quiet and Peaceable Sub<g ref="char:EOLhyphen"/>jects,<note place="margin">Iſai. 5.7.</note> is far worſe. May not God Expect, in a Land of Goſpel-Light, Judgment and Juſtice? But if in<g ref="char:EOLhyphen"/>ſtead thereof, there ſhould be a Cry, yea, a great Cry of Oppreſſion, how ſad is this? For thoſe Cries to Enter into the Ears of the Lord of <hi>Sabbaoths;</hi>
+               <note place="margin">James 5.7.</note> or Lord of Hoſts. Let the Oppreſſor look into theſe Scriptures, as into a Glaſs, to prevent the Sin of Op<g ref="char:EOLhyphen"/>preſſion for the time to come.</p>
+            <p>
+               <note place="margin">Iſa. 30.12.</note>
+               <hi>Wherefore thus ſaith the Lord, becauſe ye deſpiſe this Word, and trust in Oppreſſion, and perverſneſs, and ſtay there, therefore this Iniquity ſhall be to you as a breach ready to fall, ſwelling out in a high Wall, whoſe breaking cometh ſuddenly, on an Inſtant:</hi> O how many do truſt to nothing elſe but Oppreſſion,<note place="margin">Pſal. 62.10.</note> and the rui<g ref="char:EOLhyphen"/>ning of honeſt Families, contrary to that Prohibiti<g ref="char:EOLhyphen"/>on, <hi>Truſt not in Oppreſſion.</hi>
+            </p>
+            <p>
+               <note place="margin">Iſai. 49.26.</note>Such ſhall be fed <hi>with their own Fleſh, and made
+<pb n="21" facs="tcp:66033:12" rendition="simple:additions"/> drunk with their own Blood, as with ſweet wine:</hi>
+               <note place="margin">Zeph. 3.1.</note> Moreo<g ref="char:EOLhyphen"/>ver a Woe is denounced againſt the Oppreſſing City;<note place="margin">Pſal. 72.1.</note> yea, Chriſt ſhall break in pieces the Oppreſſor,<note place="margin">Iſa. 14.2.</note> in pleading the poors cauſe; <hi>They ſhall take them Cap<g ref="char:EOLhyphen"/>tiv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s whoſe Captives they were, and they ſhall Rule over their Oppreſſors</hi>
+               <q>Let theſe following Scriptures be as a Comfortable Cordial to all the Oppreſſed in this day of <hi>Jacob's Trouble.</hi>
+                  <note place="margin">Pſal. 9.9.</note>
+               </q>
+            </p>
+            <p>
+               <hi>God will be a Refuge for the Oppreſſed; yea,</hi>
+               <note place="margin">103.6.</note> 
+               <hi>the Lord will exerciſe Righteouſneſs and Judgment for all ſuch:</hi>
+               <note place="margin">12.5.</note> 
+               <hi>For the oppreſſion of the Poor, and ſighing of the Needy,</hi>
+               <note place="margin">Job. 3.18.</note> 
+               <hi>now will I ariſe ſaith the Lord,</hi>
+               <note place="margin">Iſa. 14.4.</note> 
+               <hi>and ſet him in ſafety from him which puffeth at him.</hi>
+               <note place="margin">Iſa. 14.4.</note> The time is coming God hath promiſed we ſhall no more hear the voice of the Oppreſſor:<note place="margin">51.13.16.4.</note> 
+               <hi>Then ſhalt thou take up this Parable againſt the King of Babylon,</hi>
+               <note place="margin">Pſal. 146.7.</note> 
+               <hi>How hath the Oppreſſor</hi> (or Exa<g ref="char:EOLhyphen"/>ctor of Gold) <hi>Ceaſed? And where is the fury of the Oppreſſor? They are Conſumed out of the Land. God Executeth Judgment for the Oppreſſed, and giveth food to the hungry; the Lord looſeth the Priſoners.</hi>
+            </p>
+            <p n="6">6. Obſervation, <hi>An Arreſt by death, bringeth Reſt to Priſoners, There the Priſoners Rest toge<g ref="char:EOLhyphen"/>ther:</hi> That all muſt die, is the Statute-Law of Heaven; it was threatned on <hi>Adam,</hi>
+               <note place="margin">Heb. 9.27.</note> and all his Poſterity,<note place="margin">Gen. 2.17.</note> 
+               <hi>That in the day he did eat of the forbid<g ref="char:EOLhyphen"/>den fruit, he ſhould ſurely dye;</hi> or as the Original, <hi>in dying thou ſhalt dye,</hi> certainly, and all thy Off-ſpring, for thou art a publick head; I ſpoke in Truth, if thou eateſt, thou dyeſt; and as thou ſhalt certainly die, ſo thou ſhalt die perfectly, Soul and Body, as <hi>Au<g ref="char:EOLhyphen"/>stin</hi>
+               <pb n="22" facs="tcp:66033:13"/> ſaith, as the Separation of the Soul from the Bo<g ref="char:EOLhyphen"/>dy is a natural death,<note place="margin">Eph. 2.1, 2.</note> ſo the Separation of the Soul from God is a Spiritual; hence all men by Nature are ſaid to be <hi>dead in Treſpaſſes and Sins,</hi>
+               <note place="margin">Chap. 2.17, 19.</note> and to be <hi>with<g ref="char:EOLhyphen"/>out God in the World;</hi> yea, <hi>Strangers and Forreigners,</hi> in reſpect of any ſaving Spiritual Acquaintance. Moreover thou ſhalt die, or be in a dying condition, as ſoon as thou doſt eat of the fruit, ſubject to ſick<g ref="char:EOLhyphen"/>neſs, weakneſs, Corruption, Pain, and Death; yea, thou and all thy Poſterity muſt die Eternally, except Grace prevent; for as man hath an Immortal Soul, if he by Sin brings a ſpiritual death on the Soul, and ſeparate it from God, it muſt for ever remain under Wrath,<note place="margin">1 Theſ. 1.10.</note> and at a diſtance from him unleſs he bring it near by the Blood of his Son,<note place="margin">Gen. 3.15.</note> and this God did promiſe after the Fall; the Meſſias, that is, the ſeed of the woman, ſhould break the Serpents head; take away his power which he had by the Fall over <hi>Adam,</hi> and his Poſterity; ſo that now through Chriſt, death is no loſs but a gain to Believers. Ye Believing Pri<g ref="char:EOLhyphen"/>ſoners,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> the word which we tranſlate Priſoner, <hi>Aſar,</hi> ſignifieth one bound and faſtened, confin'd, <hi>Numb.</hi> 30.3. there it refers to a being bound by a Vow, <hi>Job.</hi> 12.18. <hi>He looſeth the Bonds of Kings, &amp;c.</hi> it's taken for that binding which is an act of coercive Authority, <hi>Gen.</hi> 40.3.42.17, 19, 24. <hi>Numb.</hi> 15.34. <hi>Levit.</hi> 24.12. Death and the Grave will put an end to all Oppreſ<g ref="char:EOLhyphen"/>ſions, and uſher the Body into Reſt; the Bodies of all, bad Priſoners, as well as good, ſhall hear the Voice of the Oppreſſor no more, we ſhall know no more Appre<g ref="char:EOLhyphen"/>hendings, under the power of no more <hi>Witneſſes,</hi> nor hear no more of, Take him Jaylor, keep him until he be cleared by due courſe of Law; we ſhall have no more Bolts nor Bars then on us, no more
+<pb n="23" facs="tcp:66033:13"/> looking for the Keeper then, nor ſpeaking to Friends through Iron-grates; death is a debt we owe, and when that is paid, we ſhall receive an acquittance, a <hi>Quietus eſt;</hi> many Captives and Priſoners will have little Reſt until they go to their Grave; ſome of Chriſts Priſoners have ſpent the ſeventh part of their time, ſome the ſixth in Priſon; the word <hi>Iaſhan,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> tranſlated <hi>Reſt</hi> here in the Text, properly ſignifieth <hi>Sleep;</hi> in many places the word is ſo uſed, as <hi>Pſal.</hi> 3.5. In <hi>Ezek.</hi> 34.25. we find it metaphorically taken, and uſed to ſet forth the Reſt the Church ſhould have from their Oppreſſors; it's tranſlated <hi>Reſt</hi> in the Text, ſignifying that as we have Reſt in Sleep, being then out of all ſence of care, trouble, pain, and all manner of diſtraction, ſo in like manner ſhall we be in the Grave.</p>
+            <p>There are ſeveral ſorts of Priſoners; there are ſome juſtly ſo, 1 <hi>Tim.</hi> 1 9, 10. <hi>Knowing this, that the Law is not made for a Righteous man, but for the Lawleſs and diſobedient, for the ungodly and ſinners, for unholy and prophane, for Murderers of Fathers, and Murtherers of Mothers, for Man-Slayers, for Whoremongers, for them which defile themſelves with Mankind, for Men-ſtealers, for Lyars, for perjured perſons, and if there be any other thing contrary to Sound D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctrine.</hi> Secondly, there are Spiritual Priſoners, ſuch as are in the Bonds, Fetters, Iron-Chains, and Priſon of Sin, which Chriſt hath promiſed to ſet free by the Preaching of the Goſpel. Thirdly, there are Priſoners for Chriſts ſake;<note place="margin">Iſa. 61.1.</note> hence ſaith the Apoſtle, <hi>Eph.</hi> 3.1. <hi>For this cauſe I</hi> Paul, <hi>the Priſoner of the Lord, for you Gentiles,</hi> chap. 4.1. <hi>I therefore the Priſoner of the Lord,</hi> (or in the Lord) <hi>beſeech you that ye walk worthy of the Vocation wherewith you are called;</hi> Therefore we are not to think ſtrange of a Priſon, we are not the firſt depriv'd of Liberty,
+<pb n="24" facs="tcp:66033:14"/> air, mercies purchaſed by the Blood of Chriſt, and no doubt but an account muſt be given for depriving the Lords Intereſt of theſe mercies without juſt cauſe; ſhould we be hindred of what is our Right by pur<g ref="char:EOLhyphen"/>chaſe, we ſhould think it hard, unjuſt, yea, unmer<g ref="char:EOLhyphen"/>ciful, but we are not alone; <hi>Joſeph</hi> was in Priſon for as little cauſe, and his feet was hurt with Fetters, and his Soul,<note place="margin">Pſal. 105.18.</note> as the Hebrew is, came into Irons; <hi>Sampſon</hi> was made to grind in a Priſon;<note place="margin">Judg. 16.21.</note> and ſaith <hi>A<g ref="char:EOLhyphen"/>hab,</hi> of the good Prophet <hi>Micaiah, Put this Fellow in Priſon,</hi>
+               <note place="margin">1 Kings 22.27.</note> 
+               <hi>and feed him with the Bread of Affliction, and water of affliction, until I come in Peace;</hi> which indeed never was, for a certain man drew a bow at a venture the Original is,<note place="margin">Jer. 37.16.</note> in his <hi>Simplicity,</hi> and God directed the Arrow, for it ſmote <hi>Ahab</hi> between the Joynts and Harneſs or Breſt-plate,<note place="margin">chap. 38.6.</note> which was what the Prophet Propheſied of: Good <hi>Jeremiah</hi> is not without his ſhare, for he was put into the Cells or Cabines, and let down with Cords into a dark dungeon, where was no water, but mire, wherein the Prophet ſunk. So <hi>John Baptiſt,</hi> becauſe he Reproved <hi>Herod</hi> for In<g ref="char:EOLhyphen"/>ceſt,<note place="margin">Mark 6.22.</note> in Marrying his Brother <hi>Philiphs</hi> Wife, was Behead<g ref="char:EOLhyphen"/>ed in Priſon, without any cauſe aſſign'd, any Witneſs Judge or Juries,<note place="margin">Acts 16.23, 24.</note> and all for to ſatisfie the Luſt of a vain woman or two. So <hi>Paul</hi> and <hi>Silas</hi> was put into the Inner Priſon, and their feet made faſt in the ſtocks, <hi>Peter</hi> was bound in Priſon, bound with two Chains, but Prayer was made by the Church for him;<note place="margin">chap. 12.6.5, 18.</note> which proved his deliverance; and the Apoſtles were put in the Common Priſon among the Abjects; yea many of the Saints were ſhut up in Priſon, probably very cloſe Priſoners they were,<note place="margin">chap. 26.10.</note> and could not ſee their nea<g ref="char:EOLhyphen"/>reſt Relations; ſhall we think a Priſon much, when our Lord and Saviour was taken from Priſon, and
+<pb n="25" facs="tcp:66033:14"/> from Judgment, in whom was no guile found.</p>
+            <p>'Tis neceſſary that we treat a little of Priſon-Com<g ref="char:EOLhyphen"/>forts, as well as Priſon Confinement;<note place="margin">Iſa. 53.</note> how much of the Preſence of Chriſt have they had to inable them to bear the Croſs quietly, patiently, contentedly,<note place="margin">Jer. 31.18.</note> not like a Bullock unaccuſtomed to the Yoke, and though ſome cannot boaſt of Raptures and Extaſies, yet they have cauſe to bleſs God for making good that pro<g ref="char:EOLhyphen"/>miſe to them, <hi>John</hi> 16. <hi>ult. That as in the world they have Tribulation, ſo in Christ Peace;</hi> as that good man the laſt that died in Priſon, upon a queſtion I asked him on his Death-bed, what experience he had of Goſpel Peace, made this anſwer, <hi>My way is plain, and E<g ref="char:EOLhyphen"/>vidences clear;</hi> but the former, on his Death-bed, had a ſentence which ſavoured ſomething of a Rapture or Extaſie: ſaith he,<note place="margin">Habak. 3.16</note> The Prophet <hi>Habakkuks</hi> belly trem<g ref="char:EOLhyphen"/>bled, and his lips quivered in the thoughts and hearing of the Approaching Judgments which were coming on the Church of the <hi>Jews:</hi> but ſaith he, my belly trembles, and my lips quiver in the thoughts of the Approaching Glory that will be upon the Church of God. Though others dare not pretend ſo much to a being in the Mount of Raptures; yet they may bleſs God for Contentedneſs in their Condition, though li<g ref="char:EOLhyphen"/>mited to one Room, which was our Kitchin, our Cellar, our Lodging-Room, our Parlour, yet through Grace had as much peace and ſatisfaction, as when we could walk in our houſes, from one Room to ano<g ref="char:EOLhyphen"/>ther, from thence into the Garden,<note place="margin">Deut. 33.25.</note> from thence into more open air, and go from houſe to houſe to viſit friends. Bleſſed be God we have bread for the day; as the day ſo our ſtrength hath been; God is as good in Priſon as out: we are content to be where our Fa<g ref="char:EOLhyphen"/>ther will have us be, for that place is beſt. If God will
+<pb n="26" facs="tcp:66033:15"/> by his Providence open a door for Liberty, that is beſt,<note place="margin">Phil. 4.11.</note> if God will ſhut the door, that's beſt; <hi>I have learned</hi> ſaith the Apoſtle <hi>Paul, in every State to be Con<g ref="char:EOLhyphen"/>tented:</hi> Beloved, it is one thing to Read the Promiſes, another thing to truſt upon God by them, and expe<g ref="char:EOLhyphen"/>rience the truth of them; ſome can ſay, As we have heard, ſo have we ſeen in the City of our God. The Promiſes God hath made to Priſoners,<note place="margin">Pſal. 69.13.</note> the conſidera<g ref="char:EOLhyphen"/>tion of them are Comfortable; God <hi>will not deſpiſe his Priſoners;</hi> though men may, and do, yet God will honour them which honour him; the Sighs of the Priſoners ſhall be heard,<note place="margin">John 12.26.</note> and God will ariſe to ſet him at liberty, from him which puffeth at him; let men and Devils do their worſt,<note place="margin">Pſal. 12.5.</note> God will in his own time looſe the Priſoners. Gods Church of old was in <hi>Egypt</hi> four hundred and thirty years, 'tis ſaid they came out the very ſame day,<note place="margin">Exod. 12.12.</note> yea, the very night, ac<g ref="char:EOLhyphen"/>cording to Gods Determination, a night to be obſer<g ref="char:EOLhyphen"/>ved unto the Lord, ſaith the word. We ſhall none of us ſtay a night beyond Gods Determination; rather than we ſhall ſtay longer, God will work a Mira<g ref="char:EOLhyphen"/>cle for his,<note place="margin">Acts 12.5. chap. 16.</note> as of old for <hi>Paul</hi> and <hi>Silas,</hi> and <hi>Peter,</hi> who made all the Priſon doors fly open, and every mans Bands were looſed, yea, God can make our very Pri<g ref="char:EOLhyphen"/>ſon-Keepers, to come to us trembling, and fall down, and cry out, <hi>Sirs, what muſt I do to be ſaved?</hi> our <hi>God</hi> whom we ſerve is able to do this, and much more; and he can, as of old, make his people grow ſo much the more as their afflictions abound, thinking people will conclude they muſt needs be the Lords, that ſuffer patiently under ſuch apparent wrong.</p>
+            <p>Again, let us bleſs God, though we are in the Pri<g ref="char:EOLhyphen"/>ſon of man, yet that we are delivered from the Spiri<g ref="char:EOLhyphen"/>tual Priſon of Sin and Satan, into the glorious liberty
+<pb n="27" facs="tcp:66033:15"/> of the Children of God, and out of the Kingdom of darkneſs into the glorious light of the Goſpel;<note place="margin">Coloſ. 1.13.</note> there is no ſuch Priſon as for a man to be bound and fetter<g ref="char:EOLhyphen"/>ed by his Luſts and Corruptions, that ſtirs not a foot further then his Corrupt Affections ſuffer him; a man in liberty, in honour,<note place="margin">Zach. 9.11.</note> may be in worſe Bonds then a Bodily Confinement; lets bleſs God for bringing us out of this Pit by the Blood of the Covenant, this was the great end of Chriſts coming into the world, and of his Divine Unction to Preach good tidings unto the meek, to bind up the broken-hearted,<note place="margin">Iſa. 61.1.</note> to proclaim Liberty to the Captives,<note place="margin">chap. 49.24, 25.</note> and the opening of the Pri<g ref="char:EOLhyphen"/>ſon to them which are bound; the Prey ſhall be taken from the mighty, and the lawful Captive delivered; or as the Original, the Captivity of the Juſt; the Captives of the Mighty ſhall be taken away, and the Prey of the Terrible ſhall be delivered: thoſe that were under the power of Satan, that Roaring Lyon, that great Red Dragon, ſhall be Reſcued;<note place="margin">Eph. 4.8.</note> for Chriſt hath led Captivity Captive,<note place="margin">Col. 2.15.</note> Satan and all Evil An<g ref="char:EOLhyphen"/>gels, Principalities and Powers, the Rulers of the darkneſs of this world, and made a ſhew of it open<g ref="char:EOLhyphen"/>ly in his his glorious Reſurrection and Aſcenſion, ſo that now he having obtained the Conqueſt over Sa<g ref="char:EOLhyphen"/>tan, Sin, the Grave, he will ſay to the Priſoners,<note place="margin">Iſa. 49.9.</note> 
+               <hi>Go forth, and to them which are in darkneſs,</hi>
+               <note place="margin">Pſal. 1.7.</note> 
+               <hi>Shew your ſelves:</hi> he hath <hi>broken the Gates of braſs, and cut the Bars of Iron in ſunder;</hi> the darkneſs of a Material Priſon is nothing to the darkneſs of a Spiritual one; Material Chains to Spiritual Chains; deprivation of the Bodies Liberty is not to be compared to the Souls being ſhut up from God,<note place="margin">Pſal. 16.11.</note> this is far worſe then to be ſhut up from friends, being delivered from Spiritual Bonds: We may have Liberty in Bonds, light in Dark<g ref="char:EOLhyphen"/>neſs,
+<pb n="28" facs="tcp:66033:16"/> Peace in Trouble; Communion with God by the Spirit is a good Cordial to keep up the heart from fainting in this valley of tears, until we come to our Mount of Joy, where there is no limits of Joy and Bleſſedneſs; as the greateſt Comforts and Eſtates of the greateſt Monarchs here are; there's no mixture as in this world: Gods Providential Dealings with his people in this world, is like Chequer-work, there is the dark, as well as the light ſide of Providence, the moſt Refin'd and beſt State and Condition of the beſt Saints are mixed here, if we have ſome peace, we have ſome trouble; if we have large Comforts one day, we may expect a great degree of trouble ano<g ref="char:EOLhyphen"/>ther; leaſt we ſhould be exalted above meaſure, we muſt have a thorn in the fleſh now and then; but in Heaven there is no mixture,<note place="margin">2 Cor. 12.7.</note> for there is all light with<g ref="char:EOLhyphen"/>out darkneſs, all life without death, all Riches with<g ref="char:EOLhyphen"/>out Poverty, all Content without the leaſt Diſſatis<g ref="char:EOLhyphen"/>faction; becauſe we ſhall then praiſe and love God in ſo perfect a manner,<note place="margin">Pſal. 17.15.</note> as God will not demand more perfect Obedience then they will give, nor themſelves deſire to bleſs God better then they ſhall, for that were to ſuppoſe a kind of diſſatisfaction in Heaven; which is contrary to Holy <hi>Davids</hi> word, <hi>Then ſhall I be ſatisfied when I awake with thy likeneſs;</hi> are we ſen<g ref="char:EOLhyphen"/>ſible of Gods free grace to our Souls here, in deliver<g ref="char:EOLhyphen"/>ing us from Spiritual Bonds? that is an infallible ſign we ſhall admire free grace hereafter in the glorious Liberty of the Children of God, and ſhall be among that Multitude in <hi>Revelations</hi> 7.9, 10. which none could number of all <hi>Kindreds, Nations, People and Tongues, that ſtood before the Throne and before the Lamb, cloathed with white Robes, and Palms in their hands, and
+<pb n="29" facs="tcp:66033:16" rendition="simple:additions"/> cried with a loud voice, Salvation to our God, which ſitteth on the Throne, and to the Lamb.</hi>
+            </p>
+            <p>Again, This may be a Ground of Lamentation for the Church of <hi>God,</hi> that his Ambaſſadors which did uſe to bring us glad tidings of Salvation,<note place="margin">2 Cor. 5.20.</note> are not on<g ref="char:EOLhyphen"/>ly ſhut up in Material Priſons for a time, the Priſons of men, but ſome of them are lodged in the Grave, and their mouths totally ſtopt, ſo as we ſhall not hear them ſound the Goſpel Trumpet any more. It's ſometimes a ſign of anger when the King calls home his Ambaſſadors; the Apoſtle ſaith in 1 <hi>Cor.</hi> 4.1. <hi>Let a man ſo account of us as the Miniſters of Chriſt;</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>pe<g ref="char:EOLhyphen"/>retes,</hi> Miniſters, the word imports labour, painful labour, and ſignifieth an Under-Rower, Gods Mini<g ref="char:EOLhyphen"/>ſters are thus called,<note place="margin">1 Cor. 4.15.</note> becauſe under Chriſt the chief Maſter, they do help forward the Ship of the Church toward the Haven of Heaven, through the many Rocks and Sands, Storms and Tempeſts, Temptations and Perſecutions which they meet withal: they are called Fathers, which ſignifieth inſtrumentally their beget<g ref="char:EOLhyphen"/>ting Souls to God, they are called Biſhops or Overſe<g ref="char:EOLhyphen"/>ers, this charge hath its name, <hi>Pakad</hi> in the Hebrew,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Phil. 1.1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Heb. 13.17.</note> from viſiting; and in the Greek <hi>EPISKOP<g ref="char:V">Ʋ</g>S,</hi> from Over-ſeeing, Applied to any which hath a charge Ci<g ref="char:EOLhyphen"/>vil or Eccleſiaſtical, and they are ſo called of their watchfulneſs, care and labour for the good of his peo<g ref="char:EOLhyphen"/>ple; for they watch for their Souls, as they that muſt give an account, that they may do it with Joy and not with grief. Again, they are called Paſtors <hi>POI<g ref="char:EOLhyphen"/>M<g ref="char:V">Ʋ</g>N,</hi> this is taken from Shepherds,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> and applied to Teachers, <hi>Mat.</hi> 9.36. to Chriſt the good Shepherd, <hi>John</hi> 10.11, 14, the great Shepherd,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>ARCHIPOI<g ref="char:EOLhyphen"/>M<g ref="char:V">Ʋ</g>N,</hi> 1 <hi>Pet.</hi> 5.4. theſe are ſome of his honoura<g ref="char:EOLhyphen"/>ble Titles, this ſame word is applied to Kings, as in
+<pb n="30" facs="tcp:66033:17"/> 
+               <hi>Mat.</hi> 2.6. <hi>Rev.</hi> 27.7, 19.15 but a word of a double ſignification is to be underſtood according to the ſub<g ref="char:EOLhyphen"/>ject matter ſpoken of, taken in <hi>Mat.</hi> 2.6. for Ruling as a King, but in <hi>Acts</hi> 20.28. for feeding as a Shepherd, <hi>Feed the Flock of God, over which the Holy Ghoſt hath made you Over-ſeers.</hi> Is not there cauſe of mourning when God taketh away our Fathers which begat us, our Ambaſſadors, which brings glad tidings and good news of Reconciliation and Salvation by the death of the Son of God, yea, our Miniſters, which conducts, guides, and Rowes the Ship of the Church as it were under Chriſt to Heaven? Yea, to loſe our Paſtors and Shepherds which did uſe to feed our Souls, this muſt needs be ground of mourning: the Jews had their ſigns of ſorrow upon the death of friends, they Rent their Cloaths,<note place="margin">Deut. 14.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> they cut and prickt and made them<g ref="char:EOLhyphen"/>ſelves bald, by plucking, ſhaving; they went bare-footed and bare-headed, and caſt duſt upon their heads, alſo covered their Lip by caſting the Lap of their Cloke over it,<note place="margin">Micah 3.7.</note> they uſed Miniſtrils, who with ſad tunes in<g ref="char:EOLhyphen"/>clin'd the people to mourn, they had alſo mourning women, who were skilful for Lamentation; now it's no matter for thoſe outward ſigns,<note place="margin">Mat. 9.23.</note> if we are but tru<g ref="char:EOLhyphen"/>ly affected with the hand of God; our loſs is a Spiritu<g ref="char:EOLhyphen"/>al Soul-loſs, our mourning ſhould be ſuitable to our loſs. God complains that his diſpenſation of this na<g ref="char:EOLhyphen"/>ture was not conſidered, <hi>Iſa.</hi> 57.1. <hi>The Righteous peri<g ref="char:EOLhyphen"/>ſheth, and no man layeth it to heart,</hi> it ſeems God would have ſuch things laid to heart by thoſe which are a<g ref="char:EOLhyphen"/>live, and there is reaſon for it, if we conſider the latter part of the words, <hi>none conſidering the Righteous are taken from the Evil to come,</hi> or, <hi>from that which is E<g ref="char:EOLhyphen"/>vil;</hi> the death of good men ſeems to be a forerunner of ſome Judgment, therefore God would have us to
+<pb n="31" facs="tcp:66033:17"/> lay ſuch things to heart: Shall a <hi>Moſes</hi> and a <hi>Jo<g ref="char:EOLhyphen"/>ſeph</hi> die, and ſhall we not mourn, but give God cauſe to ſay of us, as of old, <hi>The Righteous periſheth, and no man layeth it to heart?</hi> God forbid.</p>
+            <p>
+               <hi>A Word of Conſolation.</hi> The time is a coming when the Priſoners of Chriſt ſhall have true Reſt, and no more hear the Voice of the Oppreſſor; though now it may be ſaid of the Lords Intereſt, as the Prophet <hi>Iſaiah</hi> once ſaid of Gods Heritage,<note place="margin">Iſaiah 42.22.</note> 
+               <hi>This is a People Robbed and Spoiled, they are all of them ſnared in Holes, and they are hid in Priſon-Houſes; they are for a Prey, and none delivereth; for a ſpoil, and none ſaith, Restore.</hi> But this ſhall ceaſe and be over,<note place="margin">1 Sam. 28.14.</note> the Priſoners ſhall in Gods time reſt together, and then Men or Devils cannot diſturb them, when once in the Grave. From hence we may learn that could not be the Real body of <hi>Samuel</hi> which the Witch of <hi>Endor</hi> brought up before <hi>Saul;</hi> for firſt its very Improbable that God who had denyed to Anſwer <hi>Saul</hi> by <hi>Ordinary meanes,</hi> ſhould now Anſwer by <hi>Extraordinary:</hi> Se<g ref="char:EOLhyphen"/>condly,<note place="margin">Rev. 14.13.</note> no Witch or Devil can diſturb their Bodies or Souls which Dye in the Lord: Becauſe they Reſt from their Labours, as ſaith the Spirit: Thirdly, had this been <hi>Samuel</hi> which had been Raiſed, no doubt but he would have Reproved <hi>Saul</hi> for Conſulting with a Witch. This Reſt in the grave, is a Fore-runner of Eternal Reſt in the Saints union of Soul and Body with God.</p>
+            <p>Its with a godly Man in this Troubleſome and uneaſie VVorld, as it was with the Dove, who could find no Reſt for the Soul of her foot, becauſe of
+<pb n="32" facs="tcp:66033:18"/> the ſwelling <hi>Waters</hi> of affliction; what from Sin and hot burning Perſecuters, in dwelling Luſts and Cor<g ref="char:EOLhyphen"/>ruptions,<note place="margin">Rom. 7.24.</note> which made Holy <hi>Paul</hi> Cry out, <hi>O Wretch<g ref="char:EOLhyphen"/>ed Man that I am!</hi> and elſewhere ſaith, <hi>We that are in this Tabernacle, do Groan, b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing Burdened:</hi> Add unto all thoſe the accuſations of an accuſing tempting De<g ref="char:EOLhyphen"/>vil;<note place="margin">2 Cor. 5.2.</note> and its no wonder a believer hath little Reſt in this VVorld; if <hi>Satan</hi> will accuſe God to Man, as he did God to <hi>Adam,</hi>
+               <note place="margin">Gen. 3.</note> in telling him <hi>God</hi> forbids him Eat<g ref="char:EOLhyphen"/>ing of the Tree of knowledge of Good and Evil for his hurt, to keep him in Ignorance, for if he would but Eat, he would be as a <hi>God,</hi> knowing <hi>Good</hi> and <hi>Evil;</hi> ſo alſo he accuſeth Man to <hi>God;</hi> ſo he did <hi>Job</hi> in re<g ref="char:EOLhyphen"/>preſenting him as an Hypocrite: Hence he is called <hi>Satan,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> which ſignifieth an Adverſary, an accuſing Adverſary, as <hi>Pſal.</hi> 109.20. when this Name is Ap<g ref="char:EOLhyphen"/>plied as an Adverſary to <hi>Gods</hi> People, it uſually meaneth the <hi>Devil,</hi> as <hi>Job.</hi> 1.6. <hi>Mat.</hi> 4. but being ſpoken of an Adverſary to the <hi>Wicked,</hi> and defender of the <hi>Church,</hi> its Applyed to a g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od Angel, as <hi>Numb.</hi> 22.22. The LXX uſually Render it <hi>Diabolos,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> which ſignifieth an accuſer; ſo <hi>Job.</hi> 1.6. the Septuagint there, Render it ſo; <hi>Satan</hi> is the great Accuſer and Callum<g ref="char:EOLhyphen"/>niator of the People of God, and all that uſe this <hi>Diabolical</hi> work are called by this <hi>Diabolical</hi> Name, 1 <hi>Tim.</hi> 3.11. <hi>Women,</hi> ſaith the Apoſtle, <hi>muſt not be Slanderous,</hi> Diabolos, <hi>not falſe Accuſers;</hi> this great Adverſary doth not a little break the Peace of Gods People, but the time is haſtening they ſhall all reſt in their Beds,<note place="margin">Iſaiah 57.2.</note> each man which hath walked in his uprightneſs, and after the Reſurrection comes the day of Jubile: in the Jubile of old, upon the ſound of the Trumpet, they were every man to
+<pb n="33" facs="tcp:66033:18"/> return to their Poſſeſſions; ſo when the great Trum<g ref="char:EOLhyphen"/>pet ſhall ſound, and the Dead in Chriſt Riſe firſt, we ſhall take Poſſeſſion of our Eternal Inheritance, which Chriſt is gone to prepare and ſecure for us: this Jubile was to return of old, but once in fifty years, but in Heaven in glory, it's all Jubile; in this year of Jubile, the Jews were not to Sow nor Reap, but it was to be a year of Reſt unto them: O! when we enter upon our ſpiritual one, all our labour<g ref="char:EOLhyphen"/>ing under Sin, Suffering, Satanical Temptations, will have an end, and we ſhall Reſt from our Labours. This Temporary Jubile continued but a year, and then to their Toyl and labour again; Oh but the Spi<g ref="char:EOLhyphen"/>ritual Jubile will be an Everlaſting Eternal one,<note place="margin">Heb. 4.9.</note> that Reſt which remains for the people of God will know no end: God promiſed <hi>Iſrael</hi> of old, when they were got over <hi>Jordan,</hi> he would give them Reſt from all their Enemies; ſo when we are got well through the Wilderneſs, and ſafely carried through <hi>Jordans</hi> Swel<g ref="char:EOLhyphen"/>lings, we ſhall come to the good Land and be at Reſt, where <hi>the Inhabitants ſhall no more ſay,</hi>
+               <note place="margin">Iſai. 33.24.</note> 
+               <hi>I am Sick, for all Tears ſhall be wiped away from our Ey<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> and we ſhall ſorrow no more, becauſe Sin no more, <hi>Iſrael</hi> of Old thought it a great Mercy to be quiet and at Reſt from their Enemies forty Years,<note place="margin">Rev. 7.17.</note> but what is that to Eternity? To Conclude, let us all take the Counſel of the Apoſtle <hi>Paul</hi> to the <hi>Theſſalonians,</hi> after he had been telling them of the Reſurrection of the Saints, and that they ſhould Riſe firſt,<note place="margin">1 Theſſ. 4.16, 17.18.</note> alſo in<g ref="char:EOLhyphen"/>forming them of the coming of our Lord Chriſt, and that when he comes we ſhall all be caught up in the Clouds, to meet the Lord in the Air, and ſo be ever with the <hi>Lord,</hi> now what is his Exhortation
+<pb n="34" facs="tcp:66033:19"/> and Concluſion? <hi>Comfort one another with theſe Words.</hi> While Sin, Satan, and an Unkind World is Diſcom<g ref="char:EOLhyphen"/>forting you, do you in a lively Hope of the Reſur<g ref="char:EOLhyphen"/>rection of the Body, the coming of Chriſt, your Meeting of him, and continuing with him, cheer up and Comfort one another with theſe things.</p>
+         </div>
+         <div type="to_the_reader">
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>I will here adjoyn an Elegy on the Deaths of Mr. <hi>Bampfield</hi> and Mr. <hi>Ralphſon,</hi> which (for the Subſt<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce of it) was first compos'd by a Friend of Mr. <hi>Ralphſons,</hi> deſign'd on him alone; but foraſmuch as the preceding Diſcourſe was occaſion'd from both their Deaths, I have put it into that Order as the whole Elegy may be applicable to both, in all Reſpects; <hi>Firſt,</hi> As they were Ministers of Chriſt. <hi>Secondly,</hi> As they were Sufferers for Chriſt. <hi>Thirdly,</hi> As to their Zeal againſt Anti-Chriſt. <hi>Fourthly,</hi> In Reſpect of their longing for <hi>Sions</hi> Welfare, and their mourning under <hi>Sions</hi> Calamities. <hi>Fifthly,</hi> In Reſpect of Soul-ſeedings, and Soul-ſupportings, by all the ways and means they were capable of in their Confin'd Eſtate.</p>
+         </div>
+         <div type="elegy">
+            <head>An Elegy on the Deaths of Mr. <hi>Bampfield</hi> and Mr. <hi>Ralphſon,</hi> who Dyed Priſoners for Chriſt, in the Preſs-yard, <hi>Newgate.</hi>
+            </head>
+            <l>May not all fear, when Heaven denounceth woes</l>
+            <l>Aloud by Signal and by Fatal blows,</l>
+            <l>Smiting the Shepherds, Calling Guides away,</l>
+            <l>That Flocks are left to wander, ſtarve and ſtray,</l>
+            <l>Even when the Wolves, the Foxes, and the Boar,</l>
+            <l>Rage for the Prey, and harmleſs Lambs devour.</l>
+            <pb n="35" facs="tcp:66033:19"/>
+            <l>Was it for nought that Bluſtring Sparkling Rays</l>
+            <l>Of ſtrange ſtupendious Comets did the Eyes</l>
+            <l>Of Earths Inhabitants ſo long detain</l>
+            <l>In times but lately paſt? who can refrain,</l>
+            <l>Conſidering our Stroaks, ſo great, ſo ſad,</l>
+            <l>Heightned with Circumſtances dark and bad,</l>
+            <l>All ſaying, Sure theſe wonders did Preſage</l>
+            <l>Some Future Tragedy to this poor Age?</l>
+            <l>Its Progreſs now makes many People think</l>
+            <l>The following things will make mens Spirits ſhrink,</l>
+            <l>Since many ſplendid Lights Extinguiſh'd are,</l>
+            <l>As now thoſe Stars, thoſe lovely ſhining Pair;</l>
+            <l>Theſe are put out, and we Depriv'd of Light,</l>
+            <l>And left to ſtumble in ſo dark a Night.</l>
+            <l>By Tongue I cannot, nor by Pen Expreſs</l>
+            <l>My Thoughts of them, and their great Worthineſs.</l>
+            <l>Of their Refined Zeal, their Heart Contrite,</l>
+            <l>Of their Compaſſions, with a publick Sp'rit.</l>
+            <l>Their Liberal Souls were highly to be Priz'd,</l>
+            <l>Alſo their Stedfaſtneſs ſome Magnifies,</l>
+            <l>O Zealous ones, who in the Gap did ſtand!</l>
+            <l>True wreſtling Watchmen to preſerve the Land,</l>
+            <l>Striving with all the Goſpel to promote,</l>
+            <l>Whoſe Trumpet ſounds a true and certain Note.</l>
+            <l>In Faithfulneſs they duely warned all,</l>
+            <l>As did that Hand by writing on the wall,</l>
+            <l>Show <hi>Belſhazzar</hi> his Sacriledge and fall.</l>
+            <l>Thoſe Seers are both removed from their Station,</l>
+            <l>A ſignal Loſs both to the Church and Nation,</l>
+            <l>Leaving now off their Cry'd, their Sighs and Groans:</l>
+            <l>Petitions, Pleadings, Tears, Complaints and Moans;</l>
+            <l>Their ſublime Souls, in Priſon Languiſhing,</l>
+            <l>Groan'd for Relief, Cries to their Heavenly King</l>
+            <l>Help <hi>Sio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> Lord, her Controverſy Plead,</l>
+            <l>Remove her Sorrow, and increaſe her Seed.</l>
+            <pb n="36" facs="tcp:66033:20"/>
+            <l>How long O Lord? when, when wilt thou relieve</l>
+            <l>Thy toſſed Church? when wilt thou Freedom give?</l>
+            <l>VVhen men thoſe Seers from Preachings did Reſtrain,</l>
+            <l>Their Meeting-Houſes clos'd up did remain;</l>
+            <l>Through Watch and Ward then none could entry take;</l>
+            <l>They thus depriv'd, by Life and Pen did make</l>
+            <l>Apologies, and worſhip true defended,</l>
+            <l>Which ſtill doth Preach, although their Preaching's ended.</l>
+            <l>After that they to Priſon both were ſent,</l>
+            <l>And finding divers Diſhes, were content</l>
+            <l>To diſtribute what in their Basket came</l>
+            <l>From their Kings Table, and divide the ſame;</l>
+            <l>Gave through the Grate, that hungry Souls might ſhare</l>
+            <l>With them, partaking of their Priſon-fare.</l>
+            <l>What double Grief to their Seraphick mind</l>
+            <l>Was it, to be Impriſon'd and Confin'd,</l>
+            <l>And ſo Reſtrain'd from ſerving of their Lord,</l>
+            <l>From Publiſhing and Preaching of his word;</l>
+            <l>While many Souls were crying out aloud,</l>
+            <l>Starved almoſt for want of Heavenly Food,</l>
+            <l>Of Goſpel Springs and Ordinances pure,</l>
+            <l>The ſadeſt loſs that any can endure.</l>
+            <l>Come join and mourn with me; O come, O come,</l>
+            <l>And help me to expreſs, now ſitting dumb,</l>
+            <l>In Melancholy Muteneſs, and in Tears,</l>
+            <l>Sob forth our preſent loſs, and ground of Fears.</l>
+            <l>But ſtop a little, though there's Cauſe to weep,</l>
+            <l>That thoſe great Seers are both fallen aſleep</l>
+            <l>Yet they Tranſported in Triumphant Fame,</l>
+            <l>Rejoicing praiſe the great <hi>JEHOVAHS</hi> Name:</l>
+            <l>Free from all Cares, have now Eternal reſt,</l>
+            <l>With ſuch Delights as cannot be expreſt.</l>
+            <l>Let none grudge this praiſe to their Memory,</l>
+            <l>No Pen is fit to write their Elegy:</l>
+            <pb n="37" facs="tcp:66033:20"/>
+            <l>Their works are finiſh'd, they have run their race,</l>
+            <l>And who's behind for to ſupply their place!</l>
+            <l>Since thoſe <hi>Elijahs</hi> Heaven have aſcended,</l>
+            <l>Convoy'd with Holy Angels, who attended</l>
+            <l>Their Souls to Glory, ſince they did defend</l>
+            <l>The Cauſe of <hi>Sion</hi> to their very End,</l>
+            <l>By Tongue and Pen the Deluge ſought to ſtop,</l>
+            <l>And in aſcending did their Mantles drop;</l>
+            <l>Let all her Children pray, yea plead and call</l>
+            <l>For ſome <hi>Eliſhas</hi> to appear, who ſhall</l>
+            <l>Their Mantles take, and with a double meaſure</l>
+            <l>Of Holy Wiſdom and Celeſtial Treaſure,</l>
+            <l>Supply their place; Truth teach, and Truth defend,</l>
+            <l>And haſte the Scarlet Whore to her laſt end;</l>
+            <l>That ſo all theſe Terreſtrial Kingdoms may</l>
+            <l>Chriſts Kingdoms be, let <hi>Sions</hi> Children pray.</l>
+            <l>For their work's finiſhed, they're both ſet free,</l>
+            <l>Call'd from a <hi>Priſon</hi> to <hi>Felicity.</hi>
+            </l>
+            <l>To Heavens rich Manſions, to Salvations wells,</l>
+            <l>To Gods right hand, even where all fulneſs dwells.</l>
+            <l>Their Gracious Lord, mov'd by their Sighs and Groans,</l>
+            <l>Their Grievances, their Tears, and bitter Moanes,</l>
+            <l>Sends ſpeedy Help, his Priſoners relieves,</l>
+            <l>And calls them thence out of a Den of theives.</l>
+            <l>So Graciouſly Conveys their ſouls above,</l>
+            <l>To full fruition of his Matchleſs Love;</l>
+            <l>Where they enjoy what no man can expreſs,</l>
+            <l>Celeſtial Joy, Perpetual Happineſs:</l>
+            <l>VVith Living Streams, Solac'd without Ceſſation,</l>
+            <l>Triumphant Glory, Endleſs Conſolation.</l>
+            <l>Joyning in Praiſes, Songs, and Heavenly Hymns,</l>
+            <l>VVith Angels, Saints, Arch-Angels, Seraphims.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
